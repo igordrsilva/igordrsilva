@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/igordrsilva" style="display:flex;flex-direction: row;">
-    <img height="150em" src="https://github-readme-stats-omega-rosy-44.vercel.app/api?username=igordrsilva&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-omega-rosy-44.vercel.app/api/top-langs/?username=igordrsilva&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-omega-rosy-44.vercel.app/api?username=igordrsilva&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+    <img height="150em" src="https://github-readme-stats-omega-rosy-44.vercel.app/api/top-langs/?username=igordrsilva&layout=compact&langs_count=16&theme=dracula&count_private=true&include_all_commits=true"/>
   </a>
 </div>
 
