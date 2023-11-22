@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/igordrsilva">
-    <img width="42%" src="https://github-readme-stats-omega-rosy-44.vercel.app/api?username=igordrsilva&show_icons=true&theme=transparent&include_all_commits=false&count_private=false&icon_color=808080&title_color=ffffff&text_color=C0C0C0" />
-    <img width="55%" src="https://github-readme-stats-omega-rosy-44.vercel.app/api/top-langs/?username=igordrsilva&layout=compact&lagns-count=16&theme=transparent&icon_color=808080&title_color=ffffff&text_color=C0C0C0"" />
+    <img width="42%" src="https://github-readme-stats-omega-rosy-44.vercel.app/api?username=igordrsilva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=808080&title_color=ffffff&text_color=C0C0C0" />
+    <img width="55%" src="https://github-readme-stats-omega-rosy-44.vercel.app/api/top-langs/?username=igordrsilva&layout=compact&lagns-count=16&theme=transparent&icon_color=808080&title_color=ffffff&text_color=C0C0C0" />
   </a>
 </div>
 
