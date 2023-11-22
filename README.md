@@ -11,9 +11,9 @@
 -->
 
 <div>
-  <a href="https://github.com/igordrsilva" style="display:flex;flex-direction: row;">
+  <a href="https://github.com/igordrsilva">
     <img height="150em" src="https://github-readme-stats-omega-rosy-44.vercel.app/api?username=igordrsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats-omega-rosy-44.vercel.app/api/top-langs/?username=igordrsilva&layout=compact&theme=dracula" />
+    <img height="150em" src="https://github-readme-stats-omega-rosy-44.vercel.app/api/top-langs/?username=igordrsilva&layout=compact&lagns-count=16&theme=dracula" />
   </a>
 </div>
 
