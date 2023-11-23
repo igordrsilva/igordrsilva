@@ -1,6 +1,5 @@
 # Hey there! 
 ### My name is Ígor and I live in Brazil. I work as a software developer at [@Megakontroll](https://github.com/Megakontroll-Ivoti), where we develop ERP systems for commerce and industries.
-### To become a Data Scientist is my professional goal.
 
 ##
 
