@@ -1,25 +1,32 @@
-# Hey there! 
-### My name is Ígor and I live in Brazil. I work as a junior analyst at [@Minha Biblioteca Católica](https://bibliotecacatolica.com.br/).
+# Hey there, I'm Ígor Silva! 👋 
+- 🔍 **Junior Analyst at [@Minha Biblioteca Católica](https://bibliotecacatolica.com.br/)** | **Database and Data Engineering Student**  
+- 📊 Passionate about transforming data into meaningful insights.  
+<br><br>
 
-##
+## 🚀 What I'm working on
+- **Data Science**, **Data Engineering**, **AI** and **Data analysis**
+- Hands-on experience with **SQL** and **Python** analytics pipelines
+<br><br>
+
+## 💡 About Me
+- 🎓 Database and Data Engineering Student
+- 🗣️ You can speak with me in Portuguese, English and German
+- 🧠 Problem solver, curious about how systems work, and how data can guide better decisions
+- 📫 Contact me by e-mail: igdouglas.silva@gmail.com
+<br><br>
 
 <div>
   <a href="https://github.com/igordrsilva">
-    <img height="150em" src="https://github-readme-stats-beryl-five-15.vercel.app/api?username=igordrsilva&show_icons=true&theme=transparent&include_all_commits=true&icon_color=808080&title_color=ffffff&text_color=C0C0C0" />
-    <img height="150em" src="https://github-readme-stats-beryl-five-15.vercel.app/api/top-langs/?username=igordrsilva&layout=compact&theme=transparent&icon_color=808080&title_color=ffffff&text_color=C0C0C0" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igordrsilva&show_icons=true&theme=transparent&include_all_commits=true&icon_color=808080&title_color=ffffff&text_color=C0C0C0" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordrsilva&layout=compact&theme=transparent&icon_color=808080&title_color=ffffff&text_color=C0C0C0" />
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+## 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,git,github,docker,mongodb,postgres)](https://skillicons.dev)
+<br><br>
 
-##
-
+## 🌐 Connect with me:
 <div>
   <a href="mailto:igdouglas.silva@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/igordrsilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
