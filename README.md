@@ -1,5 +1,5 @@
 # Hey there! 
-### My name is Ígor and I live in Brazil. I work as a support assistent at [@Minha Biblioteca Católica](https://bibliotecacatolica.com.br/).
+### My name is Ígor and I live in Brazil. I work as a junior analyst at [@Minha Biblioteca Católica](https://bibliotecacatolica.com.br/).
 
 ##
 
