@@ -1,15 +1,16 @@
 # Hey there, I'm Ígor Silva! 👋 
-- 🔍 **Junior Analyst at [@Minha Biblioteca Católica](https://bibliotecacatolica.com.br/)** | **Database and Data Engineering Student**  
+- 🔍 **Junior Analyst at [@Minha Biblioteca Católica](https://bibliotecacatolica.com.br/)** | **Data Scientist Student**  
 - 📊 Passionate about transforming data into meaningful insights.  
 <br><br>
 
 ## 🚀 What I'm working on
 - **Data Science**, **Data Engineering**, **AI** and **Data analysis**
 - Hands-on experience with **SQL** and **Python** analytics pipelines
+- Learning about **AI Agents** with **n8n** and **Python**
 <br><br>
 
 ## 💡 About Me
-- 🎓 Database and Data Engineering Student
+- 🎓 Data Scientist Student
 - 🗣️ You can speak with me in Portuguese, English and German
 - 🧠 Problem solver, curious about how systems work, and how data can guide better decisions
 - 📫 Contact me by e-mail: igdouglas.silva@gmail.com
